@@ -35,5 +35,7 @@
 		<string>Icon-Small@2x</string>
 		<string>Icon-Small-40@2x</string>
 	</array>
+	<key>CFBundleName</key>
+	<string>Forms2Native</string>
 </dict>
 </plist>
